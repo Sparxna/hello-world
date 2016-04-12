@@ -1,4 +1,3 @@
-//add name
-# NewLife
+# hello-world
 
-Game from GamingHijinxGenetics
+Just another repository
